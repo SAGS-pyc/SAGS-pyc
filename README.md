@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @SAGS-pyc
-# 🧒 Santiago Alexander Galindo Salinas 
-# Salinas. G. S.
+- 🧒 Santiago Alexander Galindo Salinas 
+- Salinas. G. S.
 
 ## 🚀 About Me
 - 👀 I’m deeply interested in Physics, Astronomy, and Data Science, particularly in how we can use programming to explore and solve complex scientific problems.
