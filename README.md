@@ -22,6 +22,13 @@
 ## ⚡ Fun Fact
 - Besides coding, I'm bachelor degree in Physics and I'm an pasionate for the stars and enjoy sharing the wonders of the universe with others. 👨‍🏫🌌
 
+## 📂 Projects
+
+1. Math Projects JN | Proyectos de Matematicas JN
+-Here, you'll find Jupyter Notebooks that explore a range of math concepts, in areas such as linear algebra, calculus, and more. Each project is designed as a study tool, or demonstration of practical applications by providing examples and solutions that can serve those faced with similar problems and various libraries such as math, numpy, and others are used.
+- Aquí encontrará cuadernos Jupyter Notebooks que exploran una variedad de conceptos matemáticos en áreas como álgebra lineal, cálculo y más. Cada proyecto está diseñado como una herramienta de estudio o demostración de aplicaciones prácticas al brindar ejemplos y soluciones que pueden servir a quienes enfrentan problemas similares y se utilizan varias bibliotecas como Math, Numpy y otras.
+3. 
+
 <!---
 SAGS-pyc/SAGS-pyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
