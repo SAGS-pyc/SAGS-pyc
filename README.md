@@ -24,12 +24,12 @@
 
 ## 📂 Projects
 
-1. [Math Projects JN | Proyectos de Matematicas JN](https://github.com/SAGS-pyc/Python_with_Excel)
+1. [Math Projects JN | Proyectos de Matematicas JN](https://github.com/SAGS-pyc/Math_Projects_JN)
 
 - EN: Here, you'll find Jupyter Notebooks that explore a range of math concepts, in areas such as linear algebra, calculus, and more. Each project is designed as a study tool, or demonstration of practical applications by providing examples and solutions that can serve those faced with similar problems and various libraries such as math, numpy, and others are used.
 - ES: Aquí encontrará cuadernos Jupyter Notebooks que exploran una variedad de conceptos matemáticos en áreas como álgebra lineal, cálculo y más. Cada proyecto está diseñado como una herramienta de estudio o demostración de aplicaciones prácticas al brindar ejemplos y soluciones que pueden servir a quienes enfrentan problemas similares y se utilizan varias bibliotecas como Math, Numpy y otras.
 
-2. Python with Excel | Python con Excel
+2. [Python with Excel | Python con Excel](https://github.com/SAGS-pyc/Python_with_Excel)
 
 - EN: Welcome to the Python with Excel repository, a part of my professional portfolio focused on projects that combine the power of Python with the versatility of Excel for data analysis and statistical insights. This collection of Jupyter Notebooks demonstrate how Python can automate, enhance, and expand Excel's capabilities, making it a powerful tool for analyzing large data sets, performing complex statistical calculations, and generating meaningful reports.
 - ES: Bienvenido al repositorio de Python con Excel, una parte de mi cartera profesional enfocada en proyectos que combinan la potencia de Python con la versatilidad de Excel para el análisis de datos y la obtención de información estadística. Esta colección de cuadernos Jupyter Notebooks demuestra cómo Python puede automatizar, mejorar y ampliar las capacidades de Excel, lo que lo convierte en una herramienta poderosa para analizar grandes conjuntos de datos, realizar cálculos estadísticos complejos y generar informes significativos.
