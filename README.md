@@ -5,7 +5,7 @@
 
 ## 🚀 About me
 - 👀 I am deeply interested in Physics, Astronomy, and Data Science, particularly how we can use programming to explore and solve complex scientific problems.
-- 🌱 I am currently learning Python, SQL, and Tableau to improve my skills in **data analysis** and build my portfolio of projects.
+- 🌱 I am currently learning Python, SQL, and Power BI to improve my skills in **data analysis** and build my portfolio of projects.
 - 💞️ I am looking to collaborate on open source projects related to astrophysics, data science, big data, and educational tools that make complex concepts more accessible.
 - 📚 I am also delving into topics such as linear algebra, calculus, and their applications to help someone out.
 - 😄 Pronouns: He/Him
