@@ -23,7 +23,7 @@
 
 ## 📫 Cómo contactarme
 - Email: [sagsalinas365@gmail.com](mailto:sagsalinas365@gmail.com)
-- LinkedIn: [www.linkedin.com/in/s-a-g-s](www.linkedin.com/in/s-a-g-s)
+- LinkedIn: [www.linkedin.com/in/s-a-g-s](https://www.linkedin.com/in/s-a-g-s/)
 - Portafolio: [Sitio web de mi portafolio](en proceso)
 
 ## ⚡ Dato curioso
