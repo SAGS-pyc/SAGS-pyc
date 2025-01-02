@@ -1,4 +1,4 @@
-# 👋 Hola a todos y todas, I'm @SAGS-pyc
+# 👋 Hola a todos y todas, Soy @SAGS-pyc
 - 🧒 Santiago Alexander Galindo Salinas (Salinas. G. S.)
   
 ![Banner](./Banner.jpg)
