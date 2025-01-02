@@ -46,6 +46,8 @@
 - EN: This repository contains projects related to data analysis, including web scraping, statistical analysis, and data visualization. I explore key techniques and tools such as Python, Excel, SQL, and Power BI for data manipulation and automation. Each project is designed to address real-world analytics problems and provides practical examples of a data analyst's workflow.
 - ES: Este repositorio contiene proyectos relacionados con análisis de datos, incluyendo web scraping, análisis estadístico y visualización de datos. Exploro técnicas y herramientas clave como Python, Excel y Power Query, SQL y Power BI para la manipulación y automatización de datos. Cada proyecto está diseñado para abordar problemas reales de análisis y proporciona ejemplos prácticos del flujo de trabajo de un analista de datos.
 
+4. [Machine Learning and AI | Aprendizaje automatico e IA ]
+
 
 <!---
 SAGS-pyc/SAGS-pyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
